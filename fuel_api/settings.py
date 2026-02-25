@@ -10,6 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
+
 from pathlib import Path
 ORS_API_KEY = "5b3ce3597851110001cf62486c9a4b1ac07a42a7bece711e47133698"
 
