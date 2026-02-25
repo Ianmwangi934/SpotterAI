@@ -1,5 +1,5 @@
 # Fuel Route Planner API 🚗⛽
-loom video=https://youtu.be/VMiqT4fOPNw
+loom video=https://youtu.be/lXOanw7xLSs
 
 
 A Django 3.2.23 API that calculates the optimal driving route between two U.S. locations and suggests fuel stops based on a 500-mile fuel range and current fuel prices. It also returns the total fuel cost based on 10 miles per gallon efficiency.
