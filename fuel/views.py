@@ -12,6 +12,7 @@ from django.views.decorators.csrf import ensure_csrf_cookie
 
 
 
+
 @method_decorator(csrf_exempt, name='dispatch')
 class RouteAPIView(APIView):
     def post(self, request):
